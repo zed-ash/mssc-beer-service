@@ -7,7 +7,7 @@ import zed.springframework.msscbeerservice.web.model.BeerDto;
 
 import java.util.UUID;
 
-@RequestMapping("/app/v1/beer")
+@RequestMapping("/api/v1/beer")
 @RestController
 public class BeerController {
 
